@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ryanbaggott843-pixel.github.io/landing-page-may-25-2026/sitemap.xml
